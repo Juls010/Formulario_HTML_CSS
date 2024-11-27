@@ -1,0 +1,42 @@
+
+body{
+    
+    background-image: url("https://cdn.pixabay.com/photo/2022/06/12/22/48/gradient-7258997_960_720.png");
+    background-size: cover;
+    background-position: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:auto;
+    
+}   
+h1{
+    color:rgba(229, 232, 60, 0.9);
+    -webkit-text-stroke: 0.1px black;
+    font-style: italic;
+    font-family:fantasy;
+    padding: 10px;
+    
+    text-align: center;
+}
+form{
+    margin:auto;
+    max-width: 500px;
+}
+fieldset{
+    text-align:left;
+    color:rgba(108, 21, 207, 0.856);
+    align-content: center;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.boton{
+    color:rgb(94, 21, 163);
+    border-radius: 5px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(234, 220, 193);
+    cursor:pointer;
+   
+}
+.boton:hover{
+    transform: scale(1.1);
+}

@@ -35,7 +35,6 @@ fieldset{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(234, 220, 193);
     cursor:pointer;
-   
 }
 .boton:hover{
     transform: scale(1.1);

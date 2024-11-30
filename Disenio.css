@@ -29,6 +29,7 @@ fieldset{
     background-color: rgba(0, 0, 0, 0.1);
 }
 .boton{
+    
     color:rgb(94, 21, 163);
     border-radius: 5px;
     font-size: 15px;
@@ -39,3 +40,14 @@ fieldset{
 .boton:hover{
     transform: scale(1.1);
 }
+label{
+    color:rgba(129, 52, 218, 0.685);
+}
+input,textarea,select{
+    border-color: blueviolet;
+    border-radius: 5px;
+}
+
+
+
+

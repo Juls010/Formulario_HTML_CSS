@@ -4,6 +4,7 @@ body{
     background-image: url("https://cdn.pixabay.com/photo/2022/06/12/22/48/gradient-7258997_960_720.png");
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin:auto;
     
